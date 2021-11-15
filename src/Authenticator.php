@@ -33,7 +33,7 @@ class Authenticator
 {
 
 	/** @const string */
-	const OAUTH_ENDPOINT = 'https://api.surveymonkey.net/oauth/';
+	const OAUTH_ENDPOINT = 'https://api.surveymonkey.ca/oauth/';
 
 	/** @var GuzzleHttp\Client */
 	protected $httpClient;
